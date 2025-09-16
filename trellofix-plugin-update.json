@@ -1,14 +1,14 @@
 {
   "name": "TrelloFix",
-  "version": "1.1.0",
-  "download_url": "https://raw.githubusercontent.com/TrelloFix/trellofix-update/main/releases/trellofix-v1.1.0.zip",
+  "version": "1.0.0",
+  "download_url": "https://raw.githubusercontent.com/TrelloFix/trellofix-update/main/releases/trellofix-v1.0.0.zip",
   "slug": "trellofix",
   "requires": "5.0",
   "tested": "6.8.2",
   "last_updated": "2025-09-16",
   "sections": {
     "description": "<p><strong>TrelloFix</strong> makes it simple to capture annotated screenshots, add feedback notes, and send them directly to Trello.</p><p>This plugin helps agencies, developers, and QA teams streamline bug reporting without leaving WordPress. Save hours of back-and-forth and ensure every issue is clear and actionable.</p>",
-    "changelog": "<h4>1.1.0</h4><ul><li>Auto-generated update from release branch.</li></ul>",
+    "changelog": "<h4>1.0.0</h4><ul><li>Auto-generated update from release branch.</li></ul>",
     "faq": "<h4>How does TrelloFix work?</h4><p>Simply activate the plugin, connect it with Trello, and your team can capture and send feedback directly from WordPress.</p><h4>Do I need a Trello account?</h4><p>Yes. TrelloFix integrates directly into your existing Trello boards and lists.</p>",
     "screenshots": "<ol><li>Feedback button inside WordPress.</li><li>Capture annotated screenshots with one click.</li><li>Issues instantly appear in Trello with details and screenshots.</li></ol>"
   }
